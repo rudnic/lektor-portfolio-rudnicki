@@ -1,0 +1,13 @@
+div .lab {
+    margin: 15px;
+}
+
+a.lab-link {
+    color: #757575!important;
+    text-decoration: none;
+}
+
+a.lab-link:hover {
+    color: #757575!important;
+    text-decoration: none;
+}

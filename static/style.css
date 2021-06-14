@@ -9,31 +9,37 @@ html {
     height: 100%;
     margin: 0;
     padding: 0;
+    color: #616161;
+    background-color: #616161;
 }
 
 body {
     font-family: 'Verdana', sans-serif;
     width: 98%;
     height: 98%;
+    color: #616161;
+    background-color: #616161!important;
 }
 
 a {
-    color: #2a99b6;
+    color: #f5f5f5!important;
+    text-decoration: none;
 }
 
 a:hover {
-    color: #33bbdf;
+    color: #f5f5f5!important;
+    text-decoration: none;
 }
 
 header, footer, div.page {
     width: 80%;
     margin: 0 auto;
-    background: #daeef3;
+    background: #9e9e9e;
     padding: 20px 30px;
 }
 
 header h1 {
-    color: #169bbd;
+    color: #fff;
     margin: 0;
     font-weight: normal;
     font-size: 42px;
@@ -52,7 +58,8 @@ header nav ul li {
 }
 
 div.page {
-    background: #f1fbfe;
+    background: #fff;
     position: relative;
     min-height: 75%;
+
 }
